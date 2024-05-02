@@ -1,2 +1,3 @@
 print("Herro, world!")
-print("This code is version 1.1. It needs to be updated.")
+version_no = 1.2
+print(f"This code is version {version_no}. It needs to be updated.")
